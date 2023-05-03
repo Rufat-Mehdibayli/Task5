@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 500px;
+    height: 500px;
+    border: solid 1px red;
+    margin: 30px auto;
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+#one{
+    background-color: aqua;
+    position: absolute;
+    top: 80px;
+}
+#two{
+    background-color:blue;
+}
+#three{background-color:chocolate
+}
+#four{background-color:blueviolet
+}
+p{
+    text-align: center;
+}

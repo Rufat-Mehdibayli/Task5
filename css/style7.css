@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 170vh;
+}
+#one {
+    width: 300px;
+    margin: 20px;
+}
+#ag{
+    color: white;
+}
+#fixed{
+    top: 20px;
+    width: 290px;
+    padding: 20px;
+    background-color: rgb(161, 22, 96);
+    position: fixed;
+}
+#two{
+    width: 300px;
+    margin: 20px;
+}
+#container{
+    display: flex;
+}
+#sticky{
+    width: 290px;
+    padding: 20px;
+    background-color:rgb(127, 141, 141);
+    position: sticky;
+    top: 20px;
+}

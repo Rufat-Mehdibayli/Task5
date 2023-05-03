@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#iceri{
+    width: 400px;
+    height: 300px;
+    border: 3px solid gray;
+    position: relative;
+}
+#c1{
+padding: 10px 5px;
+}
+#mor{
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: rgb(138, 43, 226);
+    position: absolute;
+    border-radius: 5px;
+    right: 0;
+    top: 0;
+}
+#target{
+    padding-left: 10px;
+    padding-top: 15px;
+}
+#c2{
+    padding-left: 5px;
+}
